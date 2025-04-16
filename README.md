@@ -1,5 +1,7 @@
 ![Box2D Logo](https://box2d.org/images/logo.svg)
 
+Archived: This fork was used for [your project name], which is no longer active.
+
 # Build Status
 [![Build Status](https://github.com/erincatto/box2d/actions/workflows/build.yml/badge.svg)](https://github.com/erincatto/box2d/actions)
 
